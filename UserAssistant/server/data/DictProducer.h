@@ -1,9 +1,3 @@
- ///
- /// @file    DictProducer.h
- /// @author  gsw(1499186594@qq.com)
- /// @date    2020-06-23 14:39:18
- ///
- 
 #ifndef __DICTPRODUCER_H__
 #define __DICTPRODUCER_H__
 

@@ -1,9 +1,3 @@
- ///
- /// @file    Dictionary.h
- /// @author  gsw(1499186594@qq.com)
- /// @date    2020-06-23 20:17:07
- ///
- 
 #ifndef __DICTIONARY_H__
 #define __DICTIONARY_H__
 

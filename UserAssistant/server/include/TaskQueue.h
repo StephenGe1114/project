@@ -1,8 +1,3 @@
- ///
- /// @file    TaskQueue.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2018-07-02 14:49:35
- ///
  
 
 #ifndef __WD_TASKQUEUE_H__

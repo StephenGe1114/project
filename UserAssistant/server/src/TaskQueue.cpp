@@ -1,8 +1,3 @@
- ///
- /// @file    TaskQueue.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2018-07-02 15:33:17
- ///
  
 #include "TaskQueue.h"
 

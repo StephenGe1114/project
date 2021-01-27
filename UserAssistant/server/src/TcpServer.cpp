@@ -1,8 +1,3 @@
- ///
- /// @file    TcpServer.cpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2017-05-12 16:26:05
- ///
  
 #include "TcpServer.h"
 #include "InetAddress.h"

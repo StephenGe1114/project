@@ -1,8 +1,3 @@
- ///
- /// @file    MyTask.h
- /// @author  gsw(1499186594@qq.com)
- /// @date    2020-06-26 10:18:22
- ///
  
 #ifndef __MYTASK_H__
 #define __MYTASK_H__

@@ -1,8 +1,3 @@
- ///
- /// @file    MyConf.h
- /// @author  gsw(1499186594@qq.com)
- /// @date    2020-06-23 19:50:57
- ///
  
 #ifndef __MYCONF_H__
 #define __MYCONF_H__

@@ -1,8 +1,3 @@
- ///
- /// @file    SocketUtil.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2017-05-11 19:00:58
- ///
  
 #ifndef __WD_SOCKETUTIL_H__
 #define __WD_SOCKETUTIL_H__

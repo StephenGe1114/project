@@ -1,8 +1,3 @@
- ///
- /// @file    Acceptor.cpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2017-05-11 18:48:06
- ///
  
 #include "Acceptor.h"
 #include "SocketUtil.h"

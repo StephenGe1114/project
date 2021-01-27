@@ -1,8 +1,3 @@
- ///
- /// @file    Thread.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2018-07-02 10:15:38
- ///
  
 
 #include "Thread.h"

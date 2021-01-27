@@ -1,8 +1,3 @@
- ///
- /// @file    Thread.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2018-07-02 10:13:04
- ///
  
 #ifndef __WD_THREAD_H__
 #define __WD_THREAD_H__

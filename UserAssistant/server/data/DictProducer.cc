@@ -1,9 +1,3 @@
- ///
- /// @file    DictProducer.cc
- /// @author  gsw(1499186594@qq.com)
- /// @date    2020-06-23 14:51:14
- ///
- 
 #include "DictProducer.h"
 #include <fstream>
 #include <vector>

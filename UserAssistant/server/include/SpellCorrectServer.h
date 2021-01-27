@@ -1,8 +1,3 @@
- ///
- /// @file    SpellCorrectServer.h
- /// @author  gsw(1499186594@qq.com)
- /// @date    2020-06-26 09:29:19
- ///
  
 #ifndef __SPELLCORRECTSERVER_H__
 #define __SPELLCORRECTSERVER_H__

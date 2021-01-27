@@ -1,9 +1,3 @@
- ///
- /// @file    Acceptor.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2017-05-11 18:42:23
- ///
- 
 #ifndef __WD_ACCEPTOR_H__
 #define __WD_ACCEPTOR_H__
 
